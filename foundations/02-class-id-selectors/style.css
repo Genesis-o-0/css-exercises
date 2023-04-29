@@ -1,0 +1,24 @@
+/* Styling all odd numbered elements */
+.red {
+    background-color: rgb(255, 168, 181);
+    font-family: Verdana,
+        "Dejavu Sans", sans-serif;
+}
+
+/* Styling second element */
+#blue {
+    color: rgba(0, 0, 255, 1);
+    font-size: 36px;
+}
+
+/* Styling third Element */
+.large {
+    font-size: 24px;
+}
+
+/* Styling forth Element */
+#green {
+    background-color: rgb(152, 251, 152);
+    font-size: 24px;
+    font-weight: bold;
+}
