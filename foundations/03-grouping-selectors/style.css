@@ -1,0 +1,17 @@
+/* Grouping Selectors for shared styles*/
+.first,
+.second {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* Styling first element */
+.first {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+/* Styling second element */
+.second {
+    background-color: rgb(255, 255, 0);
+}
