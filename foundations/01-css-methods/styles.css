@@ -1,0 +1,21 @@
+/* Styles for Div element */
+div {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+/* Styles for P element */
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+/* Styles for button element */
+button {
+    background-color: orange;
+    font-size: 18px;
+}
