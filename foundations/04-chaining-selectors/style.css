@@ -1,0 +1,12 @@
+/* Styling an image to preserve its proportions */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+
+}
+
+/* Styling an image and make it distorted */
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
